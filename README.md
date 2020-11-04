@@ -1,8 +1,8 @@
 Hi, I'm Herlangga Dev, *Who interested of Computer Science & Programming*
 
-- I’m currently student
-- Who loves programming
-- Ask me about anything [Here](https://github.com/zakurachan/zakurachan/issues)
+~ I’m currently student
+~ Who loves programming
+~ Ask me about anything [Here](https://github.com/zakurachan/zakurachan/issues)
 
   <!-- Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakurachan&show_icons=true&include_all_commits=true&theme=onedark" alt="Herlangga Github Stats" />
