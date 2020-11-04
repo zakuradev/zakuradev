@@ -1,7 +1,9 @@
 Hi, I'm Herlangga Dev, Who interested of Computer Science & from Indonesian
 
 ✔️ I’m currently student
+
 ✔️ Who loves programming
+
 ✔️ Ask me about anything [here](https://github.com/zakurachan/zakurachan/issues)
 
 **Favorites Languages :**  
