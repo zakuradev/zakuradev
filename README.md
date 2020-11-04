@@ -1,18 +1,8 @@
-Hi, I'm Herlangga Dev, Who interested of Computer Science & from Indonesian
+Hi, I'm Herlangga Dev, *Who interested of Computer Science & Programming*
 
-✔️ I’m currently student
-
-✔️ Who loves programming
-
-✔️ Ask me about anything [here](https://github.com/zakurachan/zakurachan/issues)
-
-**Favorites Languages :**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- I’m currently student
+- Who loves programming
+- Ask me about anything [Here](https://github.com/zakurachan/zakurachan/issues)
 
   <!-- Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakurachan&show_icons=true&include_all_commits=true&theme=onedark" alt="Herlangga Github Stats" />
