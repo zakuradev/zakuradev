@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Herlangga Dev</h1>
-<h3 align="center">Who interested of Computer Science & Currently Student from Indonesian</h3>
+```**Hi 👋 I'm Herlangga Dev**
+Who interested of Computer Science & Currently Student from Indonesian```
 
 🌱 I’m Currently Learning **Computer Science**
 
