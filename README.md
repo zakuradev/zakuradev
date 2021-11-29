@@ -1,6 +1,6 @@
-Hi, I'm Herlangga, who interested of *computer science & programming*
+Hi 👋🏻 i'm Herlangga, who interested of *computer science & programming*
 
-~ I’m currently student, who loves computer Science & programming. You can ask me about anything [Here](https://github.com/zakuradev/zakuradev/issues)
+~ I’m currently student, who loves computer science & programming. You can ask me about anything [Here](https://github.com/zakuradev/zakuradev/issues)
 
   <!-- Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakuradev&show_icons=true&include_all_commits=true&theme=onedark" alt="Herlangga Github Stats" />
